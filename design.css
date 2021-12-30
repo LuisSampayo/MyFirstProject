@@ -1,5 +1,11 @@
 body{
     font-family: 'EB Garamond', serif;
     background-color: black;
-    color:blanchedalmond
+    color:blanchedalmond    
+}
+
+#head{
+    font-style:italic;
+    font-weight: lighter;
+    text-decoration: underline;
 }
