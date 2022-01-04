@@ -15,7 +15,7 @@ body{
 .strengths{
     list-style-type:upper-alpha;
     border-style:groove;
-    background: linear-gradient(45deg, blue, red, purple, brown);
+    background: linear-gradient(45deg, grey, red, purple, brown);
     border-width: 15px;
     padding: 0 50px 10px 20px;
     margin: 0 60px 80px 150px; 
@@ -33,7 +33,7 @@ body{
     width: 100px;
     height: 100px;
     border-radius: 50%;
-    background: linear-gradient(50deg, yellow, green, pink);
+    background: linear-gradient(90deg, yellow, green, pink);
     animation-name: shine;
     animation-duration: 5s;
     animation-iteration-count: infinite;
